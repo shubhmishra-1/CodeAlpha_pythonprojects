@@ -1,0 +1,106 @@
+# 📈 Stock Portfolio Tracker
+
+## CodeAlpha Python Programming Internship
+
+### 👤 Author
+**Shubh Mishra**
+
+---
+
+## 📖 Project Overview
+
+This project is a simple Stock Portfolio Tracker developed in Python as part of the **CodeAlpha Python Programming Internship**. It allows users to enter stock symbols and quantities, calculates the total investment using predefined stock prices, and provides an option to save the portfolio summary as a text file.
+
+---
+
+## ✨ Features
+
+- Add multiple stocks
+- Hardcoded stock prices
+- Calculates total investment
+- Displays portfolio summary
+- Saves report to a text file
+- User-friendly console interface
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Dictionary
+- Functions
+- Loops
+- File Handling
+- DateTime Module
+
+---
+
+## 📂 Project Structure
+
+```
+CodeAlpha_Stock_Portfolio_Tracker/
+│
+├── Stock Portfolio Tracker python.py
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/shubhmishra-1/CodeAlpha_Stock_Portfolio_Tracker.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd CodeAlpha_Stock_Portfolio_Tracker
+```
+
+### Run the Program
+
+```bash
+python "Stock Portfolio Tracker python.py"
+```
+
+---
+
+## 🎯 Sample Output
+
+```
+Available Stocks:
+AAPL
+TSLA
+GOOGL
+
+Enter stock symbol: AAPL
+Quantity: 5
+
+Total Investment: 900 USD
+```
+
+---
+
+## 📌 Internship Task
+
+**Task 2 – Stock Portfolio Tracker**
+
+Develop a Python program that accepts stock names and quantities, calculates the total investment using predefined stock prices, and optionally saves the result to a text file.
+
+
+---
+
+## 📬 Contact
+
+**Name:** Shubh Mishra
+
+GitHub: https://github.com/shubhmishra-1
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of the **CodeAlpha Python Programming Internship**.
