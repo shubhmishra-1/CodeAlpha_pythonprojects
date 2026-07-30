@@ -1,0 +1,107 @@
+# 🎮 Hangman Game
+
+## CodeAlpha Python Programming Internship
+
+### 👤 Author
+**Shubh Mishra**
+
+---
+
+## 📖 Project Overview
+
+This project is a simple text-based Hangman Game developed in Python as part of the **CodeAlpha Python Programming Internship**. The game randomly selects a word from a predefined list, and the player must guess the word one letter at a time before running out of attempts.
+
+---
+
+## ✨ Features
+
+- Random word selection
+- Letter-by-letter guessing
+- Maximum of 6 incorrect guesses
+- Displays guessed letters
+- Input validation
+- Play Again option
+- Console-based interface
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Random Module
+- Functions
+- Loops
+- Conditional Statements
+- Lists
+- Strings
+
+---
+
+## 📂 Project Structure
+
+```
+CodeAlpha_pythonprojects/Hangman_Game
+│
+├── hangmanpython.py
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/shubhmishra-1/CodeAlpha_Hangman_Game.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd CodeAlpha_Hangman_Game
+```
+
+### Run the Program
+
+```bash
+python hangmanpython.py
+```
+
+---
+
+## 🎯 Sample Output
+
+```
+Welcome to Hangman!
+
+Word: _ _ _ _ _ _
+Guess a letter: a
+
+Good guess!
+
+Word: _ a _ _ _ a
+```
+
+---
+
+## 📌 Internship Task
+
+**Task 1 – Hangman Game**
+
+Build a simple text-based Hangman game where the player guesses a hidden word one letter at a time using Python.
+
+
+---
+
+## 📬 Contact
+
+**Name:** Shubh Mishra
+
+GitHub: https://github.com/shubhmishra-1
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of the **CodeAlpha Python Programming Internship** to strengthen Python programming skills and problem-solving abilities.
