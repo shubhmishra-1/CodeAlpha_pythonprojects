@@ -1,0 +1,104 @@
+# 🤖 Basic Chatbot
+
+## CodeAlpha Python Programming Internship
+
+### 👤 Author
+**Shubh Mishra**
+
+---
+
+## 📖 Project Overview
+
+This project is a simple rule-based chatbot developed in Python as part of the **CodeAlpha Python Programming Internship**. The chatbot responds to greetings and common user questions using predefined responses.
+
+---
+
+## ✨ Features
+
+- Greets users
+- Responds to common questions
+- Handles goodbye messages
+- Keyword-based responses
+- Console-based interaction
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Random Module
+- Functions
+- Loops
+- Conditional Statements
+- String Handling
+
+---
+
+## 📂 Project Structure
+
+```
+CodeAlpha_Basic_Chatbot/
+│
+├── chatbotpython.py
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/shubhmishra-1/CodeAlpha_Basic_Chatbot.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd CodeAlpha_Basic_Chatbot
+```
+
+### Run the Program
+
+```bash
+python chatbotpython.py
+```
+
+---
+
+## 🎯 Sample Output
+
+```
+You: Hello
+Bot: Hi! How can I help you today?
+
+You: How are you?
+Bot: I'm fine, thanks!
+
+You: Bye
+Bot: Goodbye! Have a great day!
+```
+
+---
+
+## 📌 Internship Task
+
+**Task 4 – Basic Chatbot**
+
+Develop a simple rule-based chatbot that responds to user inputs like greetings, common questions, and farewells using predefined responses.
+
+
+---
+
+## 📬 Contact
+
+**Name:** Shubh Mishra
+
+GitHub: https://github.com/shubhmishra-1
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of the **CodeAlpha Python Programming Internship**.
